@@ -1,3 +1,7 @@
+# For slides p16 p27: scatter plots comparing PM2.5 with PRES and DEWP in Beijing, 2015 vs 2023
+# Output: pm25_PM25_cmp_scatter_8plots_PM25_vs_PRES.png, pm25_PM25_cmp_scatter_8plots_PM25_vs_DEWP.png
+
+
 # 将工作路径设置为现文件夹所在目录
 setwd("D:/GitHub/DataAnalysisIntro(Public)/")
 

@@ -1,10 +1,14 @@
+# For slide p55: distribution of birthweight - Birthweight example
+# Output: babyweight_overall_sd.png, babyweight_overall_percentile.png, babyweight_overall_density.png
+
 # Example adapted from David Spiegelhalter's "The Art of Statistics"
+# The data are for 1,096,277 full-term births to non-hispanic women in the United States for 2013, and are taken from Table 23 of [http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf](http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf),
+
 
 # 设置工作目录，确保后续文件路径正确
 setwd("D:/GitHub/DataAnalysisIntro(Public)/")
 
 # --- 数据准备 --- 
-# The data are for 1,096,277 full-term births to non-hispanic white women in the United States for 2013, and are taken from Table 23, page 51 of [http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf](http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf),
 # white
 weights_w = c(1500, 2000, 2500, 3000, 3500, 4000, 4500,5000)
 mids_w = weights_w + 250

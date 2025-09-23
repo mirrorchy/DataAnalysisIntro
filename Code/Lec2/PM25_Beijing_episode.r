@@ -1,3 +1,6 @@
+# For slide p18: PM2.5 episodes in Beijing - boxplot of hours per week in 2015 and 2023
+# Output: pm25_2015_2023_episode_hours_boxplot_by_episode.png
+
 # 将工作路径设置为现文件夹所在目录
 library(dplyr)
 

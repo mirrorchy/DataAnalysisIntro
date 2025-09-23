@@ -1,3 +1,6 @@
+# For slides p71 p73: jellybean guesses - scatter, boxplot, histogram, with and without log transformation
+# Output: jellybean_plots.png, jellybean_plots_log.png, jellybean_hist_square.png
+
 # Example and data are adapted from David Spiegelhalter's "The Art of Statistics"
 
 # 将工作路径设置为现文件夹所在目录

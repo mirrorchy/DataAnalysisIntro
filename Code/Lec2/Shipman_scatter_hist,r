@@ -1,3 +1,6 @@
+# For slide p13: scatter plot with marginal histogram - Shipman example
+# Output: shipman_scatter_hist_marginal.png
+
 # Example adapted from David Spiegelhalter's "The Art of Statistics"
 # Data are contained in [00-1-shipman-confirmed-victims-x.csv](00-1-shipman-confirmed-victims-x.csv), and taken from [Chronological List of Decided Cases in the Shipman Inquiry](https://webarchive.nationalarchives.gov.uk/20090808221518/http://www.the-shipman-inquiry.org.uk/fr_casesbyyear.asp?year=74&from=r).
 

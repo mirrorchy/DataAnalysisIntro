@@ -1,3 +1,6 @@
+# For slides p54 p58 p64 p67: PM2.5 density plots and quantile function plots - 2015 vs 2023
+# Output: pm25_density_2015.png, pm25_density_2023.png, pm25_quantile_2015.png, pm25_quantile_2023.png, pm25_beijing_hist_density_2015.png, pm25_beijing_hist_density_2023.png,pm25_beijing_quantile_2015_2023.png
+
 # 将工作路径设置为现文件夹所在目录
 setwd("D:/GitHub/DataAnalysisIntro(Public)/")
 

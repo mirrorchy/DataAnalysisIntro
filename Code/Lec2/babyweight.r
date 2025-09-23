@@ -1,4 +1,10 @@
+# For slides p52 p60 p66: density and percentile plots of birthweight - Birthweight example
+# Output: babyweight_hist.png, babyweight_IQR.png, babyweight_percentiles.png, babyweight_percentiles_Q.png
+
 # Example adapted from David Spiegelhalter's "The Art of Statistics"
+# The data are for 1,096,277 full-term births to non-hispanic white women in the United States for 2013, and are taken from Table 23 of [http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf](http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf),
+
+
 
 # 设置工作目录，确保后续文件路径正确
 setwd("D:/GitHub/DataAnalysisIntro(Public)/")

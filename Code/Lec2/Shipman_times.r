@@ -1,3 +1,6 @@
+# For slide p12: lines for deaths over time - Shipman example
+# Output: shipman_deaths_by_hour.png
+
 # Example adapted from David Spiegelhalter's "The Art of Statistics"
 # Data are contained in [0-2-shipman-times-x.csv](0-2-shipman-times-x.csv), and taken from [Harold Shipman's Clinical Practice 1974-1998: A Clinical Audit Commissioned by the Chief Medical Officer, by Richard Baker, page 40, Figure 5.2](https://webarchive.nationalarchives.gov.uk/20090808160000/http://www.the-shipman-inquiry.org.uk/ge_doclist.asp?ID=5), derived from the cremation forms of Shipman's victims.
 

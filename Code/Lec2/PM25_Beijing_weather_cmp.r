@@ -1,3 +1,6 @@
+# For slide p14: PRES vs DEWP vs TEMP scatter plots - Beijing 2015 vs 2023
+# Output: pm25_weather_scatter_DEWP_vs_PRES_2015_2023.png, pm25_weather_scatter_DEWP_vs_TEMP_2015_2023.png, pm25_weather_scatter_PRES_vs_TEMP_2015_2023.png, pm25_weather_density_DEWP_PRES_TEMP_2015_2023.png
+
 # 将工作路径设置为现文件夹所在目录
 setwd("D:/GitHub/DataAnalysisIntro(Public)/")
 
