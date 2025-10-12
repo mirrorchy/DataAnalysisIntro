@@ -9,7 +9,7 @@ library(tidyr)
 
 
 # 更改到当前工作路径
-setwd("D:\\Software\\GithubDesktop\\DataAnalysisIntro\\Code\\Lec3")
+setwd("D:\\Software\\GithubDesktop\\DataAnalysisIntro")
 
 
 
@@ -54,7 +54,7 @@ ggplot(tb_data, aes(x = Year, y = Incidence)) +
     
   )
 
-ggsave("./plot/TB_2015_2024.png",width = 6,height = 5,dpi = 300,bg = "white")
+ggsave("./Output/Lec3/TB_2015_2024.png",width = 6,height = 5,dpi = 300,bg = "white")
 
 
 
@@ -100,6 +100,6 @@ ggplot(boy_data, aes(x = Year, y = Boys)) +
   )
 
 
-ggsave("./plot/birth_2019_2023.png",width = 6,height = 5,dpi = 300,bg = "white")
+ggsave("./Output/Lec3/birth_2019_2023.png",width = 6,height = 5,dpi = 300,bg = "white")
 
 
