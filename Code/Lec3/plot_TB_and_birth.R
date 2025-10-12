@@ -2,6 +2,10 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 
+# plot for slide 11
+# Output: TB_2015_2024.png  birth_2019_2023.png
+# data collected from https://gis.fudan.edu.cn/Infectious/ 
+# and https://www.nhc.gov.cn/guihuaxxs/c100133/new_list.shtml (2019-2023的卫生健康发展事业公报)
 
 
 # 更改到当前工作路径
